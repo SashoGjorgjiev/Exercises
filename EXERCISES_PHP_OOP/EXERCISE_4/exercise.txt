@@ -1,0 +1,10 @@
+4. Inheritance
+Create a base class called Animal with:
+
+A property species.
+A method makeSound() that prints "The animal makes a sound."
+Create a subclass called Dog that:
+
+Inherits from Animal.
+Overrides makeSound() to print "The dog barks."
+Bonus: Create a subclass Cat that also inherits from Animal, but prints "The cat meows."

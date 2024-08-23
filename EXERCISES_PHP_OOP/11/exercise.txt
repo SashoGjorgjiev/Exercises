@@ -1,0 +1,5 @@
+Association: Create Author and Book Classes
+Create a class Author with properties: name, age.
+Create a class Book with properties: title, author (this should be an object of the Author class).
+Add a method to Book to display the book’s title and author’s name.
+Create multiple books for a single author and display their details.

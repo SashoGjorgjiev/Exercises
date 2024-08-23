@@ -1,0 +1,5 @@
+ Create a Student Class with Grades
+Create a class Student with properties: name, grades (array).
+Add methods to add grades and calculate the average grade.
+Implement a method to display the student’s name and average grade.
+Add logic to find out if the student is passing (e.g., if the average grade is above a certain threshold).

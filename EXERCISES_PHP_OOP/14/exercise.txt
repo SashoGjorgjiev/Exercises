@@ -1,0 +1,4 @@
+ Inheritance: Create a BankAccount Hierarchy
+Create a class BankAccount with methods for deposit, withdraw, and checking balance.
+Create subclasses SavingsAccount and CheckingAccount that inherit from BankAccount.
+Add a method to SavingsAccount for interest calculation, and in CheckingAccount, add an overdraft fee logic.

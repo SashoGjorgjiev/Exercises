@@ -1,0 +1,11 @@
+1. Class and Object Creation
+Create a simple class called Car. Each car should have:
+
+A make (e.g., Toyota, Honda).
+A model (e.g., Camry, Civic).
+A year (e.g., 2020, 2021).
+Write methods to:
+
+Set the values of the car's make, model, and year.
+Get the values of the car's make, model, and year.
+Bonus: Write a method that returns a string with the car's information, e.g., "Toyota Camry 2020".

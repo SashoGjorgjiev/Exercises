@@ -1,0 +1,4 @@
+Library Book System
+Design a Book class with properties like title, author, isbn, and availability.
+Create a Library class to manage the collection of books with methods to add, remove, and lend books.
+Implement functionality to search for books by title or author.

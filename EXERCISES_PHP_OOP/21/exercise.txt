@@ -1,0 +1,4 @@
+6. Vehicle Rental System
+Define a Vehicle class with properties like make, model, year, and rentalRate.
+Create a RentalService class with methods to add vehicles, rent vehicles, and return vehicles.
+Ensure that rented vehicles cannot be rented out again until returned.

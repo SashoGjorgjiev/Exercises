@@ -1,0 +1,20 @@
+6. Vehicle Rental System
+Define a Vehicle class with properties like make, model, year, and rentalRate.
+Create a RentalService class with methods to add vehicles, rent vehicles, and return vehicles.
+Ensure that rented vehicles cannot be rented out again until returned.
+7. E-commerce Order Processing
+Create an Order class with properties such as orderID, customerName, products, and status.
+Implement methods to place an order, cancel an order, and track the order status.
+Create a Product class to be used within the Order class.
+8. Hotel Room Reservation System
+Design a Room class with properties like roomNumber, type, pricePerNight, and isAvailable.
+Create a Reservation class to manage bookings, with methods to reserve and cancel reservations.
+Implement a method to list all available rooms for a given date range.
+9. School Grading System
+Develop a Student class with properties such as name, studentID, and grades.
+Implement methods to add grades and calculate the average grade for the student.
+Create a Classroom class to manage a group of students, including methods to add and remove students.
+10. Event Management System
+Define an Event class with properties like eventName, eventDate, and location.
+Create a Guest class with properties like guestName and RSVPStatus.
+Implement an EventManager class to handle events and guest lists, including methods to send invitations and track RSVPs

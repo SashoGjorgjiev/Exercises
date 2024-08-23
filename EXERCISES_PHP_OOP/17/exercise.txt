@@ -1,0 +1,4 @@
+Product Inventory System
+Define a Product class with properties such as productName, productID, and price.
+Create a ProductInventory class that stores multiple products and has methods to add, remove, and list products.
+Implement a method to calculate the total value of the inventory.

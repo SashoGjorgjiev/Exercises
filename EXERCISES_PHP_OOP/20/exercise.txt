@@ -1,0 +1,4 @@
+Employee Management System
+Develop an Employee class with properties like name, employeeID, and salary.
+Create a Department class to manage a group of employees, including methods to add and remove employees.
+Implement a method to calculate the total salary expense of the department.

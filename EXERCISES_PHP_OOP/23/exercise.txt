@@ -1,0 +1,4 @@
+Hotel Room Reservation System
+Design a Room class with properties like roomNumber, type, pricePerNight, and isAvailable.
+Create a Reservation class to manage bookings, with methods to reserve and cancel reservations.
+Implement a method to list all available rooms for a given date range.

@@ -1,0 +1,4 @@
+Online Shopping Cart
+Create a Product class with properties such as name, price, and quantity.
+Design a ShoppingCart class with methods to add, remove, and list products.
+Include a method to calculate the total cost of the items in the cart.

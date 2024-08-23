@@ -1,0 +1,7 @@
+5. Static Properties and Methods
+Create a class called Calculator that has:
+
+Static methods for add(), subtract(), multiply(), and divide().
+Call these methods without instantiating the Calculator class.
+
+Bonus: Handle division by zero errors gracefully.

@@ -1,0 +1,5 @@
+Create a Book Class with Static Properties
+Create a class Book with properties: title, author, and price.
+Add a static property totalBooks to track the total number of books created.
+Update the static property whenever a new Book object is instantiated.
+Add a method to get the current count of books.

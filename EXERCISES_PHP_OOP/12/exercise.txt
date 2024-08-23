@@ -1,0 +1,4 @@
+Create an Order and Product Class
+Create a class Product with properties: name, price.
+Create a class Order with properties: products (array of Product objects) and methods to add products, calculate the total price, and list the products in the order.
+Simulate creating an order with multiple products and calculate the total price.

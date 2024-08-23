@@ -1,0 +1,7 @@
+3. Constructor and Destructor
+Create a class called Person that has:
+
+A name and an age.
+A constructor that sets the name and age when a new person is created.
+A destructor that outputs a message when a person object is destroyed.
+Bonus: Add a method called introduce() that prints something like "Hi, my name is John and I am 25 years old."

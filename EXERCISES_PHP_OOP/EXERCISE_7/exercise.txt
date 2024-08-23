@@ -1,0 +1,9 @@
+7. Abstract Classes and Methods
+Create an abstract class called Shape that has:
+
+An abstract method calculateArea().
+Create two subclasses:
+
+Circle, which implements calculateArea() (use the formula: π * radius^2).
+Rectangle, which implements calculateArea() (use the formula: width * height).
+Bonus: Add a method in the abstract class that prints a description of the shape, e.g., "This is a circle."

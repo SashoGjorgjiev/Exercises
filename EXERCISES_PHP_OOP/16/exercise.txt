@@ -1,0 +1,4 @@
+ Bank Account Management System
+Create a BankAccount class with properties like accountNumber, accountHolder, and balance.
+Implement methods to deposit, withdraw, and check balance.
+Ensure that withdrawal operations don't allow the balance to go negative.

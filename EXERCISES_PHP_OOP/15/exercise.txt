@@ -1,0 +1,4 @@
+ Create a Library Class
+Create a class Library with properties: books (an array of Book objects).
+Add methods to add books to the library, search for a book by title, and display all books.
+Use foreach loops to iterate through the list of books when searching or displaying

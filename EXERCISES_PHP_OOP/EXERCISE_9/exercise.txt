@@ -1,0 +1,4 @@
+ Create a Vehicle Abstract Class
+Create an abstract class Vehicle with an abstract method fuelEfficiency().
+Create subclasses Truck and Motorcycle, each implementing fuelEfficiency() to calculate the efficiency based on their own criteria (e.g., mpg or liters per 100 km).
+Add a method to Vehicle to describe the type of vehicle.

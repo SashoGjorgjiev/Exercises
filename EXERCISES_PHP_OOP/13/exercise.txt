@@ -1,0 +1,4 @@
+Interface: Create a Transport Interface
+Create an interface Transport with methods move() and fuelType().
+Implement the interface in classes Car, Bike, and Plane. Each class should have its own implementation for move() and fuelType() (e.g., a car runs on gasoline, a plane on jet fuel, and a bike on manpower).
+Create instances of each class and test the methods. 

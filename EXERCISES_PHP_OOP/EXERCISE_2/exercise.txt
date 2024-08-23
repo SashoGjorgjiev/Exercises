@@ -1,0 +1,9 @@
+Create a class called BankAccount. It should have:
+
+A private property balance (starting at 0).
+Methods to:
+deposit() an amount to increase the balance.
+withdraw() an amount to decrease the balance, but only if sufficient funds exist.
+getBalance() to retrieve the current balance.
+Bonus: Add a check so that you cannot deposit a negative amount.
+
