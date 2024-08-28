@@ -1,0 +1,30 @@
+a) Create a file where you will start the following task:
+
+The goal of this task is to create a program that generates a phone bill for a given phone number and the phone calls made during a month. The bill should be displayed on the screen in the following format:
+
+markdown
+Phone Number: _XXX - XXXX_ Name : _____________
+Number of Calls Made: _________ Total Time: ____ minutes _____ seconds
+Total Amount Due ________
+You need to implement the following classes to store the given information:
+
+PhoneNumber: Owner’s name, Prefix (up to 3 digits, integer), Phone number (integer)
+Call: The phone number called (object of the PhoneNumber class), Call duration in seconds (integer)
+PhoneBill: Owner of the phone bill (object of the PhoneNumber class), Array of calls (array of objects from the Call class), Number of calls made (integer), Subscription fee (a constant integer set to 500 denars).
+In addition to getters and setters, the classes should have the following methods:
+
+b) In the PhoneNumber class, write a method that compares whether two phone numbers are the same. They are considered the same if their prefixes and phone numbers are equal.
+
+c) In the Call class, write a method getMinutes() that returns the number of minutes in a call.
+
+d) In the PhoneBill class, write a method calculateTotalBill() that returns the cost of the bill based on the array of calls. This cost should include the subscription fee. The tariff per minute for all calls is 7 denars. (If a call lasts at least 1 second, it is charged as 1 minute. For example, 53 seconds = charge for 1 minute, 3 minutes and 45 seconds = charge for 4 minutes).
+
+e) In the PhoneNumber class, write a method getNumberOfCalls() which takes an argument of type PhoneBill and returns the number of calls made by the given phone number with the phone number from the bill passed as an argument to the function.
+
+f) Split the task into separate files so that each class is in a separate file.
+
+g) In a separate file named main.php:
+
+Create an object naTeodora for Teodoras's bill. Ivana has the phone number 072 2343.
+Create 3 calls made by Teodora with data of your choice.
+Print Teodora's bill according to the format shown at the beginning of the task
